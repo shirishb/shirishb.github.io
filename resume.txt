@@ -1,4 +1,4 @@
-﻿SHIRISH BASKARAN
+SHIRISH BASKARAN
 shirish.baskaran@gmail.com | +1 (226) 808-5497
 
 
@@ -14,7 +14,7 @@ RELEVANT SKILLS
 WORK EXPERIENCE
   
 
-	Team Lead, BlackBerry OS / Wireless Groups
+Team Lead, BlackBerry OS / Wireless Groups
 February 2012 - January 2014 (2 years)
 	
 
@@ -51,7 +51,7 @@ February 2012 - January 2014 (2 years)
 
   
 
-	Software Developer, QNX Platform Team
+Software Developer, QNX Platform Team
 February 2011 - February 2012 (1 year 1 month)
 	
 
@@ -67,9 +67,10 @@ February 2011 - February 2012 (1 year 1 month)
 
   
 
-	Software Developer, WLAN Radio & IP Transport
+Software Developer, WLAN Radio & IP Transport
 June 2008 - February 2011 (2 years 9 months)
-	WLAN Protocols & Firmware Developer, Intern
+
+WLAN Protocols & Firmware Developer, Intern
 May 2006 - August 2007 (1 year 4 months)
 	
 
@@ -89,12 +90,12 @@ May 2006 - August 2007 (1 year 4 months)
 EDUCATION
 
 
- mcgill 
 
-	B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
+B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
 McGill University, Montreal, Canada
 CGPA 3.44/4.0
-	Electives
+
+Electives
 * Microprocessor Systems, Computer Architecture, Operating Systems, Artificial Intelligence, Signal Processing Hardware, Computer Graphics, Telecom Network Architecture, Macroeconomic Theory, Global Climate Change
 
 
@@ -114,4 +115,5 @@ HOBBIES & INTERESTS
 * Self development and continuous learning; taken MOOCs ranging from Data Analysis to Economic Policymaking
 * Fan of fantasy and science fiction books; webcomics; film, music festivals and british TV shows
 * Travel and adventure; took a year off to travel and seek out thrilling and rejuvenating experiences around the world from snorkelling around remote Islands in Palawan, Philippines to hurtling down sand dunes in Swakopmund, Namibia
+
 Up-to-date resume at: http://shirishb.github.io
