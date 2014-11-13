@@ -1,0 +1,117 @@
+﻿SHIRISH BASKARAN
+shirish.baskaran@gmail.com | +1 (226) 808-5497
+
+
+Software development professional with a strong technical foundation, diverse interests and a proven track record of delivery, interested in learning new skills by taking up challenging assignments in new problem domains
+
+
+RELEVANT SKILLS
+* System architecture, design and optimization; problem solving; debugging; team leadership
+* C (proficient); Python, Makefiles (competent); C++, Shell scripting, Assembly, Java, R (novice)
+* Familiarity with debuggers, profilers, network sniffers, logic analyzers and various other tools of the trade
+
+
+WORK EXPERIENCE
+  
+
+	Team Lead, BlackBerry OS / Wireless Groups
+February 2012 - January 2014 (2 years)
+	
+
+* Led team integrating a new Wi-Fi chipset on BlackBerry10
+   * Managed project team of 5-7, with 3 direct reports; spread across multiple development sites
+   * Managed relationship with chipset vendor and worked together to implement and support:
+      * RF hardware calibration and validation at the factory
+      * Station mode, Mobile Hotspot and Wi-Fi Direct/P2P functionality including Miracast/Wi-Fi Display
+      * Product Wi-Fi Alliance certification
+   * Key Accomplishments:
+      * Championed and established processes for effective joint development with vendor
+      * Achieved fastest productization of a new Wi-Fi chipset on a BlackBerry phone, with KPIs (throughput, power, driver stability) meeting or exceeding mature solutions
+
+
+* Led team designing the telephony middleware components on BlackBerry10
+   * Managed project team of 8-10, with 5 direct reports; majority were new to QNX and C development
+   * Designed and delivered a critical system service with high reliability requirements which provided:
+      * A framework to support call control, call history and settings for multiple phone “lines”
+      * Implementation of a cellular phone “line” as per requirements from carriers and certification bodies
+      * API for clients which included the Phone dialer application and utilities for phone number manipulation
+   * Coordinated with various stakeholder teams to define interfaces and track scheduling for dependencies
+   * Key Accomplishments:
+      * Successfully staged deliverables to aggressively enable alpha, pre-certification and field testing
+      * Mentored and built an effective agile team whose “definition of done” set a high quality bar
+
+
+* Across projects:
+   * Remained an active developer resource on all projects
+   * Exposed to Agile methodologies and adopted principles from Scrum & Kanban that suited projects
+   * Emphasized software quality; established clear coding guidelines; thorough design and code reviews and use of wikis, continuous integration, unit and functional testing tools
+   * Represented team at cross-functional and executive status meetings
+   * Hiring and employee performance management
+
+
+  
+
+	Software Developer, QNX Platform Team
+February 2011 - February 2012 (1 year 1 month)
+	
+
+* Implemented various misc. (short) projects on the nascent PlayBook/BlackBerry10 platform
+   * Basic Facebook functionality (get friend list, post to wall) for a native application demo
+   * Driver for a tunable capacitance controller (STHVDAC-303) for a hardware team prototype
+   * Networking functionality on a BlackBerry JVM on PlayBook email over Wi-Fi demo
+   * Messaging, SMTP functionality on Personal Information Manager (PIM) prototype on PlayBook
+
+
+* From July 2011 took on responsibility for the telephony middleware project mentioned before
+
+
+  
+
+	Software Developer, WLAN Radio & IP Transport
+June 2008 - February 2011 (2 years 9 months)
+	WLAN Protocols & Firmware Developer, Intern
+May 2006 - August 2007 (1 year 4 months)
+	
+
+* Maintained the core Wi-Fi stack and ported vendor network drivers to the BlackBerry RTOS
+* Built strong knowledge and understanding of IEEE 802.11 standards and IPv4 networking
+* Implemented features for power management, quality of service, call admission control, regulatory domain, DNS, DHCP, connection and scan management touching all layers of the stack
+* Debugged network connectivity and Wi-Fi interoperability issues reported in the field
+* Profiled and optimised stack for CPU utilization, throughput and battery life performance
+* Mentored students and new employees and delivered Wi-Fi training to remote product development sites
+* Key Accomplishments:
+   * Ported the core Wi-Fi and VPN stacks to the Qualcomm REX OS to support CDMA device variants
+      * Created an abstraction layer between the stack and OS/platform services
+      * Bridged the BB and QC network driver interfaces with a zero-copy buffer translation scheme
+   * Led product development on several BlackBerry phones, from hardware bring-up of chipsets to supporting Wi-Fi Alliance certification programs
+
+
+EDUCATION
+
+
+ mcgill 
+
+	B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
+McGill University, Montreal, Canada
+CGPA 3.44/4.0
+	Electives
+* Microprocessor Systems, Computer Architecture, Operating Systems, Artificial Intelligence, Signal Processing Hardware, Computer Graphics, Telecom Network Architecture, Macroeconomic Theory, Global Climate Change
+
+
+Selected Projects
+* Honours Thesis: Hardware acceleration of Particle Systems using Cell Broadband Engine; in C (2007-2008)
+* Artificial Intelligence: [1] Offline signature verification using Support Vector Machines (SVM) [2] AI game-playing agent for a game similar to Reversi; in C++ (2006)
+
+
+Other Involvement
+* Part-time jobs at McGill Environment Health & Safety Office (2003-2006) and Campus Recreation (2004-2007)
+* Course Tutor, taught a course on C programming for undergraduate students run by McGill IEEE Student Branch (2008)
+
+
+HOBBIES & INTERESTS
+
+
+* Self development and continuous learning; taken MOOCs ranging from Data Analysis to Economic Policymaking
+* Fan of fantasy and science fiction books; webcomics; film, music festivals and british TV shows
+* Travel and adventure; took a year off to travel and seek out thrilling and rejuvenating experiences around the world from snorkelling around remote Islands in Palawan, Philippines to hurtling down sand dunes in Swakopmund, Namibia
+Up-to-date resume at: http://shirishb.github.io
