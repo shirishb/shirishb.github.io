@@ -30,7 +30,6 @@ February 2012 - January 2014 (2 years)
       * Championed and established processes for effective joint development with vendor
       * Achieved fastest productization of a new Wi-Fi chipset on a BlackBerry phone, with KPIs (throughput, power, driver stability) meeting or exceeding mature solutions
 
-
 * Led team designing the telephony middleware components on BlackBerry10
    * Managed project team of 8-10, with 5 direct reports; majority were new to QNX and C development
    * Designed and delivered a critical system service with high reliability requirements which provided:
@@ -42,7 +41,6 @@ February 2012 - January 2014 (2 years)
       * Successfully staged deliverables to aggressively enable alpha, pre-certification and field testing
       * Mentored and built an effective agile team whose “definition of done” set a high quality bar
 
-
 * Across projects:
    * Remained an active developer resource on all projects
    * Exposed to Agile methodologies and adopted principles from Scrum & Kanban that suited projects
@@ -50,7 +48,7 @@ February 2012 - January 2014 (2 years)
    * Represented team at cross-functional and executive status meetings
    * Hiring and employee performance management
 
-
+  
 Software Developer, QNX Platform Team
 February 2011 - February 2012 (1 year 1 month)
 	
@@ -92,13 +90,14 @@ B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
 McGill University, Montreal, Canada
 CGPA 3.44/4.0
 
+
 Electives
 * Microprocessor Systems, Computer Architecture, Operating Systems, Artificial Intelligence, Signal Processing Hardware, Computer Graphics, Telecom Network Architecture, Macroeconomic Theory, Global Climate Change
 
 
 Selected Projects
-* Honours Thesis: Hardware acceleration of Particle Systems using Cell Broadband Engine; in C (2007-2008)
-* Artificial Intelligence: [1] Offline signature verification using Support Vector Machines (SVM) [2] AI game-playing agent for a game similar to Reversi; in C++ (2006)
+* Honours Thesis: Hardware acceleration of Particle Systems using Cell Broadband Engine (2007-2008)
+* Artificial Intelligence: [1] Offline signature verification using Support Vector Machines (SVM) [2] AI game-playing agent for a game similar to Reversi (2006)
 
 
 Other Involvement
@@ -112,5 +111,6 @@ HOBBIES & INTERESTS
 * Self development and continuous learning; taken MOOCs ranging from Data Analysis to Economic Policymaking
 * Fan of fantasy and science fiction books; webcomics; film, music festivals and british TV shows
 * Travel and adventure; took a year off to travel and seek out thrilling and rejuvenating experiences around the world from snorkelling around remote Islands in Palawan, Philippines to hurtling down sand dunes in Swakopmund, Namibia
+
 
 Up-to-date resume at: http://shirishb.github.io
