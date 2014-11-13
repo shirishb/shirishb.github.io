@@ -6,6 +6,8 @@ Software development professional with a strong technical foundation, diverse in
 
 
 RELEVANT SKILLS
+
+
 * System architecture, design and optimization; problem solving; debugging; team leadership
 * C (proficient); Python, Makefiles (competent); C++, Shell scripting, Assembly, Java, R (novice)
 * Familiarity with debuggers, profilers, network sniffers, logic analyzers and various other tools of the trade
@@ -49,8 +51,6 @@ February 2012 - January 2014 (2 years)
    * Hiring and employee performance management
 
 
-  
-
 Software Developer, QNX Platform Team
 February 2011 - February 2012 (1 year 1 month)
 	
@@ -64,8 +64,6 @@ February 2011 - February 2012 (1 year 1 month)
 
 * From July 2011 took on responsibility for the telephony middleware project mentioned before
 
-
-  
 
 Software Developer, WLAN Radio & IP Transport
 June 2008 - February 2011 (2 years 9 months)
@@ -88,7 +86,6 @@ May 2006 - August 2007 (1 year 4 months)
 
 
 EDUCATION
-
 
 
 B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
