@@ -8,9 +8,9 @@ Software development professional with a strong technical foundation, diverse in
 RELEVANT SKILLS
 
 
-* System architecture, design and optimization; problem solving; debugging; team leadership
+* System architecture, design and optimisation; problem solving; debugging; team leadership
 * C (proficient); Python, Makefiles (competent); C++, Shell scripting, Assembly, Java, R (novice)
-* Familiarity with debuggers, profilers, network sniffers, logic analyzers and various other tools of the trade
+* Familiarity with debuggers, profilers, network sniffers, logic analysers and various other tools of the trade
 
 
 WORK EXPERIENCE
@@ -46,7 +46,7 @@ February 2012 - January 2014 (2 years)
 * Across projects:
    * Remained an active developer resource on all projects
    * Exposed to Agile methodologies and adopted principles from Scrum & Kanban that suited projects
-   * Emphasized software quality; established clear coding guidelines; thorough design and code reviews and use of wikis, continuous integration, unit and functional testing tools
+   * Emphasised software quality; established clear coding guidelines; thorough design and code reviews and use of wikis, continuous integration, unit and functional testing tools
    * Represented team at cross-functional and executive status meetings
    * Hiring and employee performance management
 
@@ -76,7 +76,7 @@ May 2006 - August 2007 (1 year 4 months)
 * Built strong knowledge and understanding of IEEE 802.11 standards and IPv4 networking
 * Implemented features for power management, quality of service, call admission control, regulatory domain, DNS, DHCP, connection and scan management touching all layers of the stack
 * Debugged network connectivity and Wi-Fi interoperability issues reported in the field
-* Profiled and optimised stack for CPU utilization, throughput and battery life performance
+* Profiled and optimised stack for CPU utilisation, throughput and battery life performance
 * Mentored students and new employees and delivered Wi-Fi training to remote product development sites
 * Key Accomplishments:
    * Ported the core Wi-Fi and VPN stacks to the Qualcomm REX OS to support CDMA device variants
@@ -91,6 +91,7 @@ EDUCATION
 B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
 McGill University, Montreal, Canada
 CGPA 3.44/4.0
+
 
 Electives
 * Microprocessor Systems, Computer Architecture, Operating Systems, Artificial Intelligence, Signal Processing Hardware, Computer Graphics, Telecom Network Architecture, Macroeconomic Theory, Global Climate Change
