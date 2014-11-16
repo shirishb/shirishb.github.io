@@ -2,7 +2,7 @@ SHIRISH BASKARAN
 shirish.baskaran@gmail.com | +1 (226) 808-5497
 
 
-Software development professional with a strong technical foundation, diverse interests and a proven track record of delivery, interested in learning new skills by taking up challenging assignments in new problem domains
+Software development professional with a strong technical foundation, diverse interests and a proven track record of delivery; interested in learning new skills by taking up challenging assignments in new problem domains
 
 
 RELEVANT SKILLS
@@ -45,7 +45,7 @@ February 2012 - January 2014 (2 years)
 
 * Across projects:
    * Remained an active developer resource on all projects
-   * Exposed to Agile methodologies and adopted principles from Scrum & Kanban that suited projects
+   * Exposed to agile methodologies and adopted principles from Scrum & Kanban that suited projects
    * Emphasised software quality; established clear coding guidelines; thorough design and code reviews and use of wikis, continuous integration, unit and functional testing tools
    * Represented team at cross-functional and executive status meetings
    * Hiring and employee performance management
@@ -55,7 +55,7 @@ Software Developer, QNX Platform Team
 February 2011 - February 2012 (1 year 1 month)
 	
 
-* Implemented various misc. (short) projects on the nascent PlayBook/BlackBerry10 platform
+* Implemented various projects on the nascent PlayBook/BlackBerry10 platform
    * Basic Facebook functionality (get friend list, post to wall) for a native application demo
    * Driver for a tunable capacitance controller (STHVDAC-303) for a hardware team prototype
    * Networking functionality on a BlackBerry JVM on PlayBook email over Wi-Fi demo
@@ -112,7 +112,7 @@ HOBBIES & INTERESTS
 
 * Self development and continuous learning; taken MOOCs ranging from Data Analysis to Economic Policymaking
 * Fan of fantasy and science fiction books; webcomics; film, music festivals and British TV shows
-* Travel and adventure; took a year off to travel and seek out thrilling and rejuvenating experiences around the world, from snorkelling around remote Islands in Palawan, Philippines to hurtling down sand dunes in Swakopmund, Namibia
+* Travel and adventure; took a year off to travel and seek out thrilling and rejuvenating experiences around the world, from snorkelling around remote islands in Palawan, Philippines to hurtling down sand dunes in Swakopmund, Namibia
 
 
 Up-to-date resume at: http://shirishb.github.io
