@@ -6,9 +6,8 @@ Software development professional with a strong technical foundation, diverse in
 
 
 RELEVANT SKILLS
-
-
 * System architecture, design and optimisation; problem solving; debugging; team leadership
+* Networking; middleware; API design; agile methodologies; continuous integration; unit testing
 * C (proficient); Python, Makefiles (competent); C++, Shell scripting, Assembly, Java, R (novice)
 * Familiarity with debuggers, profilers, network sniffers, logic analysers and various other tools of the trade
 
@@ -70,14 +69,14 @@ June 2008 - February 2011 (2 years 9 months)
 
 WLAN Protocols & Firmware Developer, Intern
 May 2006 - August 2007 (1 year 4 months)
-	
 
-* Maintained the core Wi-Fi stack and ported vendor network drivers to the BlackBerry RTOS
+
+* Maintained the core Wi-Fi stack and ported multiple vendor network drivers to the BlackBerry RTOS
 * Built strong knowledge and understanding of IEEE 802.11 standards and IPv4 networking
-* Implemented features for power management, quality of service, call admission control, regulatory domain, DNS, DHCP, connection and scan management touching all layers of the stack
+* Implemented features for power management, quality of service, call admission control, regulatory domain, rate adaptation, DNS, DHCP, connection and scan management; touching all layers of the stack
 * Debugged network connectivity and Wi-Fi interoperability issues reported in the field
 * Profiled and optimised stack for CPU utilisation, throughput and battery life performance
-* Mentored students and new employees and delivered Wi-Fi training to remote product development sites
+* Mentored new employees and delivered Wi-Fi training to remote product development sites
 * Key Accomplishments:
    * Ported the core Wi-Fi and VPN stacks to the Qualcomm REX OS to support CDMA device variants
       * Created an abstraction layer between the stack and OS/platform services
@@ -91,7 +90,6 @@ EDUCATION
 B.Eng Honours Electrical Engineering – Internship Program, 2002-2008
 McGill University, Montreal, Canada
 CGPA 3.44/4.0
-
 
 Electives
 * Microprocessor Systems, Computer Architecture, Operating Systems, Artificial Intelligence, Signal Processing Hardware, Computer Graphics, Telecom Network Architecture, Macroeconomic Theory, Global Climate Change
