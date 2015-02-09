@@ -1,33 +1,31 @@
-SHIRISH . BASKARAN @ gmail.com | +1 (226) 808-5497
+﻿SHIRISH . BASKARAN @ gmail.com | +1 (226) 808-5497 | 51 Shilton Road, Scarborough, ON, Canada
 
 
 Software development professional with a strong technical foundation, diverse interests and a proven track record of delivery; seeking an individual contributor opportunity in new and challenging problem domains
-	
+
 
 RELEVANT SKILLS
-	
+
 
 * Embedded systems; driver development; middleware; RTOS; Wi-Fi; networking; API design
-* Agile methodologies; continuous integration; unit, functional testing; technical & team leadership
 * Proficient: { C } Competent: { Python, Makefiles } Novice: { C++, Shell scripting, ARM Assembly }
-* Protocols: IEEE 802.11, TCP/IP, UDP, DHCP, DNS, ARP; Bus: SDIO, SPI
-	
+* Agile methodologies; continuous integration; unit, functional testing; technical & team leadership
+* IEEE 802.11, TCP/IP, DHCP, DNS; SDIO; Git, Perforce, SVN; JIRA, Bugzilla, Rally
+
 
 WORK EXPERIENCE
-	  
+
 
 Team Lead, BlackBerry OS / Wireless Groups
-February 2012 - January 2014
-	
+February 2012 - January 2014 (2 years)
+
 
 Led a team of 4 developers assigned to time sensitive projects in need of technical expertise and leadership
-* Responsible for issue triage and codeline integration in addition to being a productive developer on teams
+* Performed issue triage and codeline integrations in addition to being a productive developer on the team
 * Exposed to agile methodologies; adopted principles from Scrum & Kanban suited to team and projects
 * Emphasized software quality; established clear coding guidelines; thorough design and code reviews and use of wikis, continuous integration (Jenkins), static code analysis (Klocwork), unit and functional testing tools (Check, Robot Framework)
-	
 
-Project: Integration of a new Wi-Fi chipset family on BlackBerry10
-	
+Project: Integration of a new Wi-Fi chipset on BlackBerry10
 
 * Led project team of 6 developers spread across multiple development sites
 * Managed relationship with a large chipset vendor and worked together to implement and support:
@@ -36,58 +34,51 @@ Project: Integration of a new Wi-Fi chipset family on BlackBerry10
    * Station mode, Mobile Hotspot and Wi-Fi Direct/P2P functionality including Wi-Fi Display
    * Product Wi-Fi Alliance certification
 * Implemented functionality between the BlackBerry proprietary WLAN Manager, customized version of the open source WPA supplicant and a network driver within the QNX io-pkt stack (based on NetBSD)
-* Defined and executed processes to review, integrate and validate code releases from vendor
 * Led investigation and resolution of complex system level issues ranging from subsystem interaction during startup to poor battery life performance
-	
 
 Key Accomplishments:
-	
 
 * Achieved fastest productization of a new Wi-Fi chipset on a BlackBerry phone, with KPIs (throughput, power, driver stability) meeting or exceeding mature solutions
 * Championed and established processes for effective joint development with vendor
-	
+
 
 Project: Design of telephony middleware for BlackBerry10
-	
 
-* Led a project team of 9 developers, a majority needed on-boarding to QNX and C development
+* Led a project team of 9 developers, a majority of whom were new to QNX and C development
 * Designed and built a critical system service from the ground up which provided:
    * A framework to support call control, call history and settings for multiple phone “lines”
    * Utilities for phone number manipulation (formatting, “smart” dialling & canonical representation)
    * A cellular phone “line” (for both GSM & CDMA technologies) as per requirements from carriers
    * High availability and reliability for emergency call scenarios
 * Implemented modules for a QNX Persistent Publish/Subscribe based JSON API parser/dispatcher; state machines for the phone/call and audio subsystems and other core framework components responsible for threading, event management and logging
-	
 
 Key Accomplishments:
-	
 
 * Achieved design goals of building a reliable service capable of recovery from a process crash mid-call; passed architecture review board and security research group audits with no resulting change requests
+* Successfully staged deliverables to aggressively enable alpha, pre-certification and field testing
 * Mentored and built an effective agile team whose “definition of done” set a high quality bar
-	  
+
 
 Software Developer, QNX Platform Team
-February 2011 - February 2012
-	
+February 2011 - February 2012 (1 year 1 month)
+
 
 Member of a rapid prototyping team on the leading edge of BlackBerry’s transition to the QNX OS
-
 
 * Messaging, SMTP functionality on Personal Information Manager (PIM) prototype on PlayBook
 * Networking functionality on a BlackBerry JVM on PlayBook email over Wi-Fi demo
 * Basic Facebook functionality (get friend list, post to wall) for a native application demo
 * Driver for a tunable capacitance controller (STHVDAC-303) for a hardware team prototype
-	
+
 
 Software Developer, WLAN Radio & IP Transport
-June 2008 - February 2011
+June 2008 - February 2011 (2 years 9 months)
 
 WLAN Protocols & Firmware Developer, Intern
-May 2006 - September 2007
-	
+May 2006 - September 2007 (1 year 4 months)
+
 
 Member of a team that worked on the first dual-radio Wi-Fi capable BlackBerry devices
-
 
 * Maintained the core Wi-Fi stack and ported multiple vendor network drivers to the BlackBerry RTOS
 * Implemented standard and proprietary IEEE 802.11 features covering power management, quality of service, call admission control, regulatory domain, rate adaptation, connection and scan management
@@ -96,20 +87,17 @@ Member of a team that worked on the first dual-radio Wi-Fi capable BlackBerry de
 * Devoted significant time and effort to maximising battery life performance; BlackBerry’s “always on” Wi-Fi use cases required aggressive power saving techniques with complex trade offs
 * Profiled and improved TCP and UDP throughput performance on multiple hardware platforms
 * Eliminated all instances where the Wi-Fi stack starved JVM UI threads beyond 60 fps budget
+* Recognized by team for taking initiative to improve code quality and eliminating technical debt
 * Developed a popular tool to perform “shelving” on Perforce clients (before it was added in version 2009.2)
-* Recognized by team for taking initiative to improve code quality and eliminate technical debt
 * Mentored new employees and delivered Wi-Fi training to remote product development sites
 * Involved in Wi-Fi chipset evaluation and selection for future products
-	
 
 Key Accomplishments:
-	
 
 * Led efforts to port the core Wi-Fi and VPN stacks to the Qualcomm REX OS to support CDMA device variants; the resulting code reuse was considered a big win for the department as highlighted by the VP
 * Led Wi-Fi development on several BlackBerry phones (Storm2, Tour2, Curve 8530, Style), from hardware bring-up of chipsets to supporting Wi-Fi Alliance certification programs
-	
 
-	
+
 EDUCATION
 
 
@@ -121,16 +109,15 @@ CGPA 3.44/4.0
 Electives
 * Microprocessor Systems, Computer Architecture, Operating Systems, Artificial Intelligence, Signal Processing Hardware, Computer Graphics, Telecom Network Architecture
 
-
 Selected Projects
 * Honours Thesis: Hardware acceleration of Particle Systems using Cell Broadband Engine (2007-2008)
 * Microprocessor Systems: Project included wiring and writing drivers for peripheral devices including a character LCD, touch screen pixel LCD, Real Time Clock, and an 802.11b chip on a TI MSP430 microprocessor based development board with an Altera Max-II CPLD (2005)
-	
+
 
 HOBBIES & INTERESTS
+
+
 * Self development and continuous learning; taken MOOCs ranging from Data Analysis to Economic Policymaking
 * Fan of fantasy and science fiction books; webcomics; film, music festivals and British TV shows
 * Travel and adventure; took a year off to travel and seek out thrilling and rejuvenating experiences around the world, from snorkelling around remote islands in Palawan, Philippines to hurtling down sand dunes in Swakopmund, Namibia
-	
 
-Shirish Baskaran | shirish.baskaran@gmail.com | http://shirishb.github.io
